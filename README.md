@@ -18,6 +18,12 @@
 | [chapter08-streaming-async.ipynb](chapter08-streaming-async.ipynb) | 流式与异步 | stream、AIMessageChunk、batch、asyncio.gather 并发、astream_events |
 | [chapter09-projects.ipynb](chapter09-projects.ipynb) | 综合项目实战 | 智能客服 Agent、知识库问答、内容生产流水线（3 个完整项目） |
 
+## 知识点笔记（阅读版）
+
+不想打开 Jupyter 时，可以直接阅读 [notes/](notes/) 目录下的 Markdown 版知识整理（概念讲解 + 核心示例代码，不含练习）：
+
+[ch02 提示词与消息](notes/chapter02-prompts.md) · [ch03 结构化输出](notes/chapter03-structured-output.md) · [ch04 LCEL 链式编排](notes/chapter04-lcel.md) · [ch05 工具与函数调用](notes/chapter05-tools.md) · [ch06 智能体与记忆](notes/chapter06-agents.md) · [ch07 RAG](notes/chapter07-rag.md) · [ch08 流式与异步](notes/chapter08-streaming-async.md) · [ch09 综合项目实战](notes/chapter09-projects.md)
+
 ## 如何使用
 
 ```bash
